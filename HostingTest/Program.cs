@@ -29,7 +29,7 @@ namespace HostingTest
 
             app.MapControllers();
 
-            app.Run("https://hosting-test-amber.vercel.app");
+            app.Run("https://hosting-test-git-master-petrovic-luka.vercel.app/);
         }
     }
 }
