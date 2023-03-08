@@ -29,7 +29,7 @@ namespace HostingTest
 
             app.MapControllers();
 
-            app.Run();
+            app.Run("https://hosting-test-amber.vercel.app");
         }
     }
 }
